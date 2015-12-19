@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Party>
+    <Player flag = "USA Singer">
+        <name>TaylorSwift</name>
+        <level>1</level>
+        <class>Pop</class>
+    </Player>
+    <Player flag = "USA Group">
+        <name>LinkPark</name>
+        <level>2</level>
+        <class>Group</class>
+    </Player>
+    <Player flag = "USA Pop">
+        <name>Avril</name>
+        <level>3</level>
+        <class>Pop</class>
+    </Player>
+</Party>
